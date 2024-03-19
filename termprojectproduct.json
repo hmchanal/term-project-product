@@ -1,0 +1,8 @@
+[
+    {"id" : 1, "name" : "Original Ramen", "price" : 13, "image" : "originalramen.jpeg", "description" : "Traditional Japanese broth base noodles served with one slice of Pork, Corn, Bamboo, half an egg and Seaweed Slice."},
+    {"id" : 2, "name" : "Shoyu Ramen", "price" : 11, "image" : "shoyuramen.jpeg", "description" : "Traditional Japanese Shoyu broth base noodles served with one slice of Pork, Corn, Bamboo, half an egg and Seaweed Slice."},
+    {"id" : 3, "name" : "Miso Ramen", "price" : 14, "image" : "misoramen.jpeg", "description" : "Traditional Japanese Miso broth base noodles served with one slice of Pork, Corn, Bamboo, half an egg and Seaweed Slice."},
+    {"id" : 4, "name" : "Curry Ramen", "price" : 14, "image" : "curryramen.jpeg", "description" : "Traditional Japanese Curry broth base noodles served with one slice of Pork, Corn, Bamboo, half an egg and Seaweed Slice."},
+    {"id" : 5, "name" : "Assorted Veggie Ramen", "price" : 13, "image" : "veggieramen.jpeg", "description" : "Nutritionally Balanced, Beautiful and Healthy Ramen."},
+    {"id" : 6, "name" : "Tomato Ramen", "price" : 16, "image" : "tomatoramen.jpeg", "description" : "Japanese Tomato broth base noodles served with 3 pcs slice of Roast Beff, Broccoli, Corn, Bamboo, half an egg and Seaweed Slice."}
+]
